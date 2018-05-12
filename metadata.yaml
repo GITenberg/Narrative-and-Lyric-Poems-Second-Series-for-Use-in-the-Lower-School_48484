@@ -1,9 +1,13 @@
 _repo: Narrative-and-Lyric-Poems-Second-Series-for-Use-in-the-Lower-School_48484
+_version: 0.1.0
 contributor:
   annotator:
     agent_name: Stevenson, Orlando John
     gutenberg_agent_id: '44817'
     url: http://www.gutenberg.org/2009/agents/44817
+covers:
+- cover_type: archival
+  image_path: 48484-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -11,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48484#Narrative-and-Lyric-Poems-Second-Series-for-Use-in-the-Lower-School
 gutenberg_issued: '2015-03-13'
 gutenberg_type: Text
 identifiers:
