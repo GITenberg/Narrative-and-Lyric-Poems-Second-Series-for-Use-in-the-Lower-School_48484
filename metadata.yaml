@@ -25,5 +25,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Narrative and Lyric Poems (Second Series) for Use in the Lower School
 url: http://www.gutenberg.org/ebooks/48484
